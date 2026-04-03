@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TheGame
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\ initializes\ the\ constructor,\ theFrame\ and\ the\ image\ for\ the\ window.\r\n
+comment2.params=
+comment2.target=TheGame()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ TheGame\r\n
+comment3.params=
+comment3.target=void\ initializeGame()
+comment3.text=\r\n\ intializeGame\ calls\ TheBoard\ and\ begins\ the\ process\ of\ booting\ up\ the\ game\ and\ window.\ \r\n\ It\ sets\ basic\ perameters\ for\ the\ window.\r\n
+numComments=4

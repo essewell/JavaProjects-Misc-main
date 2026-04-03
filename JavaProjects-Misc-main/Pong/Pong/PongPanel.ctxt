@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PongPanel
+comment1.params=game
+comment1.target=PongPanel(Pong)
+comment10.params=g
+comment10.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=playerNo
+comment2.target=Racket\ getPlayer(int)
+comment3.params=playerNo
+comment3.target=void\ increaseScore(int)
+comment4.params=playerNo
+comment4.target=int\ getScore(int)
+comment5.params=
+comment5.target=void\ update()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=11
